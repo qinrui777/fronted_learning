@@ -1,4 +1,4 @@
->CSS stands for Cascading Style Sheets. This programming language dictates how the HTML elements of a website should actually appear on the frontend of the page.
+**CSS** stands for Cascading Style Sheets. This programming language dictates how the HTML elements of a website should actually appear on the frontend of the page.
 
 
 ### Why CSS?
@@ -7,6 +7,10 @@
 
 
 ### How to write CSS
+
+CSS Syntax:
+`selector { property:  value;}`
+
 example:
 
 ```html
@@ -21,7 +25,7 @@ Many property:
 
 
 Three approaches to styling only some of a particular element
-- Classes:  named styles
+- 01 Classes: named styles
     - html code:
     ```html
     <li class="foodLi"> Chocolate </li>
@@ -34,5 +38,24 @@ Three approaches to styling only some of a particular element
         color: green;
     }
     ```
-
   
+- 02 IDs: name *one* element
+    - html code:
+    ```html
+    <img scr="cake.jpg" id="cakeImg">
+    ```
+    - css code:
+    ```css
+    #cakeImg {
+        float: right;
+    }
+    ```
+
+- 03 Combinators: select by relationship
+    - Style <li> inside of <ul>:
+    ```css
+    ul li {
+        ....
+    }
+    ```
+    - More adanced relationships exist

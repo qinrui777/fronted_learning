@@ -1,9 +1,10 @@
-> HTML stands for HyperText Markup Language. "Markup language" means that, rather than using a programming language to perform functions, HTML uses tags to identify different types of content and the purposes they each serve to the webpage.
+**HTML** stands for HyperText Markup Language. "Markup language" means that, rather than using a programming language to perform functions, HTML uses tags to identify different types of content and the purposes they each serve to the webpage.
 
 ## html 常用标签
 
 
 <h1> <h2> <h3> <h4> <h5> <h6> 
+
 ### 列表 li (list item) 
 
 ### 有序列表 ol（ordered list）
