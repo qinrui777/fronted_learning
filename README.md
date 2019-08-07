@@ -4,6 +4,8 @@ An overview:
 - CSS is used to control presentation, formatting, and layout.
 - JavaScript is used to control the behavior of different elements.
 
+![Alt text](images/html_css_js_01.png)
+
 
 Tools: https://codepen.io
 
