@@ -1,12 +1,3 @@
-###### 选择器 
-分组选择器
-e.g.
-```
-h1,h2,p
-{
-
-}
-```
 嵌套选择器
  - p{ } : 为所有P元素制定一个样式
  - .marked{ }: 为所有class="marked"的元素指定一个样式
@@ -28,7 +19,6 @@ h1,h2,p
 改变元素显示
 内联元素 <---> 块元素
 
-
 (内联元素 <--- 块元素)e.g.
 `li {display: inline;}`
 
@@ -44,12 +34,5 @@ h1,h2,p
 我们常将`<ul>`元素加上display:inline-block样式，原本垂直的列表就可以水平显示了。
 
 
-
-
-```sh
-➜  projectOne . venv/bin/activate
-(venv) ➜  projectOne export FLASK_APP=hello.py
-(venv) ➜  projectOne python -m flask run
-```
 >来源：https://www.youtube.com/watch?v=uFXweZepi1o
 

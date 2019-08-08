@@ -1,0 +1,1 @@
+The cascade combine the importance, origin, specificity and source order of the applicable style declarations to determine exactly which declaration should be applied to any given element. And if there's a conflict, how to resolve that conflict. In other words, *how to tell which CSS rule wins*. 

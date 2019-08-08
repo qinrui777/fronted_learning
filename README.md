@@ -4,7 +4,7 @@ An overview:
 - CSS is used to control presentation, formatting, and layout.
 - JavaScript is used to control the behavior of different elements.
 
-![Alt text](images/html_css_js_01.png)
+![some image](images/html_css_js_01.png)
 
 
 Tools: https://codepen.io
@@ -17,4 +17,10 @@ https://www.w3.org/TR/2018/REC-css-color-3-20180619/#svg-color
 
 Color picker tool
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool
+
+- https://imagecolorpicker.com/
+
+
+
+[lesson code example on gitub](https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/examples)
