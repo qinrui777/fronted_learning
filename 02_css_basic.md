@@ -159,7 +159,4 @@ summary:
 
 
 
-
-
-
 [CSS ZEN GARDEN](http://www.csszengarden.com/) has 200 designs submitted now and hosted on this website.

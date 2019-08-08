@@ -2,8 +2,7 @@
 
 ### HTML 常用标签
 
-
-<h1> <h2> <h3> <h4> <h5> <h6> 
+`<h1>` to `<h6> `
 
 #### 列表 li (list item) 
 
@@ -31,14 +30,11 @@ Oreo cookie eating procedure:
 
 `<a>`
 
-
 - External Links
 
 ```html
 <a href="http://192.168.6.113:8080/login?from=%2F" target="_blank" style="margin-left: 30%;text-decoration: none;">
 ```
-
-
 
 - Internal Links
 
@@ -55,8 +51,11 @@ Oreo cookie eating procedure:
 ```
 
 [more example](https://github.com/qinrui777/fullstack-course4/blob/master/examples/Lecture09/links-same-page.html)
+
 #### 图片 
 `<img>`
+
+Remember to specify width and height attributes whenever possible
 
 ```html
   <img src="picture-with-quote.jpg" width="400" height="235" alt="Picture with a quote"> &quot;It is not the critic who counts; not the man who points out how the strong man stumbles,.... so that his place shall never be with those cold and timid souls who neither know victory nor defeat.&quot;
@@ -95,13 +94,12 @@ Oreo cookie eating procedure:
 #### 水平线
 <hr>  Horizontal Rule
 
-
 <span></span> 
 翻译： 跨度
 用于标记一小段的样式
 例如：
 
-```sh
+```html
 <p>
 除了收费的几款，<span style="color:#f00">cadvisor </span>是带监控界面的、最易入门的docker容器监控工具了。
 </p>
@@ -160,13 +158,10 @@ inline element
 - Instead of `>` Use: `&gt;`
 - Instead of `&` Use: `&amp;`
 
-others 
-`&nbsp`
-`&quot`
+others：
+`&nbsp;` , `&quot;`, `&copy;` (版权©️)
 
-版权©️ Use:   `&copy;`
-
-https://dev.w3.org/html5/html-author/charref
+[More Character Ref](https://dev.w3.org/html5/html-author/charref)
 
 ### HTML Content Models
 Block-Level Elements |  Inline Elements
