@@ -17,7 +17,7 @@ An overview:
     - [Color picker tool](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool)
     - https://imagecolorpicker.com/
     - [140 Color Names](https://www.w3.org/TR/2018/REC-css-color-3-20180619/#svg-color)
-    
+    - https://caniuse.com/
 my account: github account (qinrui777)
 
 
